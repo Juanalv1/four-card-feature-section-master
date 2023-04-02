@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Four card feature section master
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature section master] (https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### The challenge
 
@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-yZxGHvb5p8
-- Live Site URL: https://juanalv1.github.io/
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-master-wIFJ-SpgRJ
+- Live Site URL: https://superlative-kelpie-93a919.netlify.app/
 
 ## My process
 
